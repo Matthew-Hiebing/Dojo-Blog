@@ -9,6 +9,7 @@ npm install react-dom 17.0.1
 npm install react-router-dom 5.2.0
 npm install react-scripts 4.0.1
 npm install react 17.0.1
+npm install json-server
 ```
 
 ## Questions?
