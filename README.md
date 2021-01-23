@@ -10,7 +10,12 @@ npm install react-router-dom 5.2.0
 npm install react-scripts 4.0.1
 npm install react 17.0.1
 npm install json-server 0.16.3
+npm install react-router-dom@5
 ```
+
+## Run Instructions
+npm start
+npx json-server --watch data/db.json --port 8000
 
 ## Questions?
 Send me a message on GitHub (Matthew-Hiebing) or E-mail me at: Matthew.Hiebing@gmail.com
