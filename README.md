@@ -1,5 +1,5 @@
 # Blog Tutorial
-This project is from an online tutorial by "The Net Ninja".  I'm going through this tutorial to learn more about React JS functionality so I can use it in other projects I'm working on.
+This project is from an online tutorial by "The Net Ninja".  I've refactored some of the project and added some of my own personal touches and I went through the course.
 
 ## Installation
 First install [node](https://nodejs.org/en/).  Once node is installed, install the following packages:
