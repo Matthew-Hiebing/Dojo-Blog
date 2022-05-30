@@ -17,8 +17,15 @@ npm install react-router-dom
 
 
 ## Run Instructions
+Starts node server.
+```cmd
 npm start
+```
+
+Starts JSON server.
+```cmd
 npx json-server --watch data/db.json --port 8000
+```
 
 ## Questions?
 Send me a message on GitHub (Matthew-Hiebing) or E-mail me at: Matthew.Hiebing@gmail.com
