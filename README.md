@@ -1,8 +1,6 @@
 # Blog Tutorial
 This project is from an online tutorial by "The Net Ninja".  I've refactored some of the project and added some of my own personal touches and I went through the course.
 
-I also hosted the application through Heroku.  [Click here](www.google.com) to see the application in practice.
-
 ## Installation
 First install [node](https://nodejs.org/en/).  Once node is installed, install the following packages:
 
